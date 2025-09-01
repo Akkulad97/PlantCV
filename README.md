@@ -1,4 +1,4 @@
 # PlantCV
 Digital Plant Phenotyping
 <br>
-Author - Gudavalli Akhil
+Author - Gudavalli Akhil(Msc)
